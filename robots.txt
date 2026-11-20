@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bodyrecompositions.cl/sitemap.xml
